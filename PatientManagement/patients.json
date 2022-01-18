@@ -1,0 +1,52 @@
+{
+    "patients": [
+        {
+            "pid": "000001",
+            "fname": "Smith",
+            "lname": "Lee",
+            "street": "1234 Main Street",
+            "city": "Acworth",
+            "state": "GA",
+            "zipcode": "30102",
+            "phone": "770-123-4567",
+            "emerg_name": "Rick Lee",
+            "emerg_phone": "404-123-1234\n"
+        },
+        {
+            "pid": "000002",
+            "fname": "Mary",
+            "lname": "Miller",
+            "street": "45 Cobb Parkway",
+            "city": "Marietta",
+            "state": "GA",
+            "zipcode": "30006",
+            "phone": "404-555-9876",
+            "emerg_name": "Rick Miller",
+            "emerg_phone": "770-123-1234\n"
+        },
+        {
+            "pid": "000003",
+            "fname": "Brian",
+            "lname": "Swift",
+            "street": "67 Flower Street",
+            "city": "Marietta",
+            "state": "GA",
+            "zipcode": "30036",
+            "phone": "678-678-6789",
+            "emerg_name": "Jane Swift",
+            "emerg_phone": "770-456-3456"
+        },
+        {
+            "pid": "000004",
+            "fname": "Jason",
+            "lname": "Arnold",
+            "street": "2403 Hembree Station Ct",
+            "city": "Marietta",
+            "state": "GA",
+            "zipcode": "30062",
+            "phone": "404-931-8847",
+            "emerg_name": "Kristi Arnold",
+            "emerg_phone": "678-613-1384\n"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "procedures": [
+        {
+            "pid": "000001",
+            "pname": "CT SCAN",
+            "date": "04-12-2021",
+            "dname": "Dr.Smith",
+            "cost": "1200\n"
+        },
+        {
+            "pid": "000001",
+            "pname": "X-ray",
+            "date": "04-13-2021",
+            "dname": "Dr.Smith",
+            "cost": "300\n"
+        },
+        {
+            "pid": "000002",
+            "pname": "Stress Test",
+            "date": "03-11-2021",
+            "dname": "Dr.Luis",
+            "cost": "200\n"
+        },
+        {
+            "pid": "000003",
+            "pname": "Ultrasound",
+            "date": "03-24-2021",
+            "dname": "Dr.Luis",
+            "cost": "500\n"
+        },
+        {
+            "pid": "000003",
+            "pname": "X-ray",
+            "date": "03-24-2021",
+            "dname": "Dr.Luis",
+            "cost": "300"
+        },
+        {
+            "pid": "000004",
+            "pname": "Amputation",
+            "date": "05/07/2021",
+            "dname": "Dr. Jekyll",
+            "cost": "560"
+        },
+        {
+            "pid": "000004",
+            "pname": "Amputation",
+            "date": "05/08/2021",
+            "dname": "Mr. Hyde",
+            "cost": "768\n"
+        }
+    ]
+}
